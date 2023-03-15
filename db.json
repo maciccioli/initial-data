@@ -1,4 +1,3 @@
-  const dataTest = [
     {
       'id': 100,
       'parentId': '',
@@ -44,5 +43,4 @@
       'dependents': 3,
       'hasAnYear': true,
       'time': 4,
-    },
-   ];
+    }
